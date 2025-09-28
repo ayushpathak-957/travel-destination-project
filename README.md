@@ -31,6 +31,23 @@ The project is organized into several files to keep the content clean and manage
 -   **Semantic HTML:** The code uses semantic tags (`<header>`, `<section>`, `<footer>`, etc.) for better structure and accessibility.
 
 ---
+## OUTPUT images
+<img width="1920" height="10153" alt="image index" src="https://github.com/user-attachments/assets/e7a41235-ab83-4db9-bf61-5445229de508" />
+
+<img width="1920" height="2833" alt="image jaipur" src="https://github.com/user-attachments/assets/4c1b4f95-1bb1-404f-8bf5-619b9ea4b8d8" />
+
+<img width="1920" height="2755" alt="image Leh-Ladakh" src="https://github.com/user-attachments/assets/3cebf771-91ed-4c0e-a0e0-370e71ff3d1f" />
+
+<img width="1920" height="2529" alt="image varanasi" src="https://github.com/user-attachments/assets/aa9dfd9d-3d70-423c-83d7-8c353950341d" />
+
+<img width="1920" height="2896" alt="image agra" src="https://github.com/user-attachments/assets/85eb3e66-1f77-40c8-9598-d187a3b1063b" />
+
+
+<img width="1920" height="2679" alt="image goa" src="https://github.com/user-attachments/assets/de8770ae-f742-40c5-a7e9-46321c919680" />
+
+<img width="1920" height="991" alt="image contact us" src="https://github.com/user-attachments/assets/217f8438-78a8-4d2c-a254-1ce115d55d85" />
+
+
 
 ## How to Run
 
