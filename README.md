@@ -1,4 +1,5 @@
 # Skyline Travel Website
+https://ayushpathak-957.github.io/travel-destination-project/
 
 This repository contains the source code for the Skyline Travel website, a simple, static site built with HTML and CSS. The website showcases popular travel destinations in India, offering detailed information, sample itineraries, and package pricing.
 
