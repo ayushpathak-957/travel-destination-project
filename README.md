@@ -17,7 +17,6 @@ The project is organized into several files to keep the content clean and manage
 -   `goa.html`: A dedicated page for the Goa travel destination.
 -   `contact_us.html`: A contact page with a form and contact information.
 -   `README.md`: This file, which provides an overview of the project.
--   `images/`: A directory containing all the image files used across the website.
 
 ---
 
