@@ -32,7 +32,9 @@ The project is organized into several files to keep the content clean and manage
 
 ---
 ## OUTPUT images
+<div style="overflow-x: auto;">
 <img width="1920" height="10153" alt="image index" src="https://github.com/user-attachments/assets/e7a41235-ab83-4db9-bf61-5445229de508" />
+</div>
 
 <img width="1920" height="2833" alt="image jaipur" src="https://github.com/user-attachments/assets/4c1b4f95-1bb1-404f-8bf5-619b9ea4b8d8" />
 
